@@ -1,4 +1,4 @@
-# require "administrate/field/text"
+require "administrate/field/text"
 require "rails"
 require "administrate/engine"
 require "wysiwyg-rails"
