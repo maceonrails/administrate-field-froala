@@ -18,5 +18,5 @@ Gem::Specification.new do |gem|
 
   gem.add_dependency "administrate", "~> 0.8.1"
   gem.add_dependency "rails", "~> 5.1"
-  gem.add_dependency "wysiwyg-rails", "~> 2.6.1"
+  # gem.add_dependency "wysiwyg-rails", "~> 2.6.1"
 end
